@@ -5,7 +5,7 @@
 - Write a function that takes in a positive parameter
 - The function has to return its multiplicative resistance
 - i.e. the number times a number can be multiplied until you reach a single digit
-- Important to note that the function simply has to return a number - not anything else
+- Important to note that the function simply has to return a number - nothing else
 
 ## How should we do it?
 
