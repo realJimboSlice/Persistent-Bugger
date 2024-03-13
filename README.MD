@@ -12,7 +12,7 @@
 - Check to see if number has more than one integer
 - Declare variable that keeps count of persistence
 - Have to separate the number
-- We can use .split() but most convert to string using toString().
+- We can use .split() but must convert to string using toString().
 - Multiply with each other using .reduce
 - Check if result has more than one integer
 - If yes, continue the chain
